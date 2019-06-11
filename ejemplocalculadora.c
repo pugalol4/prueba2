@@ -2,7 +2,11 @@
 #fuses HS, NOFCMEN, NOIESO, PUT, NOBROWNOUT, NOWDT
 #fuses NOPBADEN, NOMCLR, STVREN, NOLVP, NODEBUG
 #use delay(clock=1600000)
+<<<<<<< HEAD
  
+=======
+ prueba
+>>>>>>> master
 #define _DEBUG_SERIAL_
 
 #ifdef _DEBUG_SERIAL_
